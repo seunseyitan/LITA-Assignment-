@@ -67,4 +67,4 @@ Order by
 select product from [dbo].[SalesData$] group by product 
 having 
 sum(case when OrderDate >= '2024-01-01' and OrderDate < '2024-04-01'
-then 1 else 0 end) = 0; -- Q1 of 2024
+then 1 else 0 end) = 0;Â --Â Q1Â ofÂ 2024
