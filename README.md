@@ -35,12 +35,16 @@ Uncover key insights such as:
 **Project Summarization**
 Capstone Project is designed for the store to make data driven and well informed decisions for improving performance of the store and understanding customer behaviour towards subscription over time .
 
-TARGET AUDIENCE
+**Target Audience**
 1. Sales Manager
 2. Decision makers
 3. Shareholders
 
-Project Analysis
+**Project Analysis**
+The project would be analyzed and presented with 3 tools
+1. Microsoft Excel
+2. SQL
+3. Microsoft Power BI
 
 
 
