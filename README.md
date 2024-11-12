@@ -14,6 +14,7 @@ This data would be analyzed with using 3 tools (Microsoft Excel, SQL, Power BI).
 Capstone project is a project which i am tasked with analyzing the sales performance of a retail store by exploring different key insights using 3 tools for data analysis for the sales data file and analyzing customer data for a subscription service to identify segments and trends for te customer data file.
 This project is useful for understanding the sales performance of the retail store and make well informed and data driven decision on each of the products in their store.
 For the customer data file, it helps the store to understand their customers behavior, track subscription types and identify key trends in cancellation and renewals for the customer
+
 **Key features**
 Data Cleaning and exploration of both Sales data and Customer data file
 Uncover key insights such as:
