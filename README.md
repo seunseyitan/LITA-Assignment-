@@ -16,7 +16,31 @@ This project is useful for understanding the sales performance of the retail sto
 For the customer data file, it helps the store to understand their customers behavior, track subscription types and identify key trends in cancellation and renewals for the customer
 **Key features**
 Data Cleaning and exploration of both Sales data and Customer data file
-Sales Data File:
-*** 
-Project Summarization
+Uncover key insights such as:
+1. Sales Data File:
+*** Top selling products
+*** Regional performance
+*** Monthly sales trend
+*** Average sales trend
+
+2. Customer Data file
+*** Understanding customer behaviour
+*** track subscription types
+*** identify key trends in cancellations and renewals
+*** identify the average subscription duration
+*** identify top package being subscribed to
+
+3. Create a dashboard that visualizes the insights found.
+   
+**Project Summarization**
+Capstone Project is designed for the store to make data driven and well informed decisions for improving performance of the store and understanding customer behaviour towards subscription over time .
+
+TARGET AUDIENCE
+1. Sales Manager
+2. Decision makers
+3. Shareholders
+
+Project Analysis
+
+
 
